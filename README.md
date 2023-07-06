@@ -1,4 +1,4 @@
 # LINEWORKSBOT
 LINEWORKSのBotがスプレッドシートの勤怠情報を通知するためのGAS
 
-スプレッドシートへの書き込みは、iPhoneのショートカット機能からPostしてGASを実行することも出来ます
+スプレッドシートへの書き込みは、iPhoneのショートカット機能からPostしてGASを実行することが出来ます
